@@ -1,5 +1,3 @@
 {
-	"run_list" : [
-		"recipe[windows]"
-	]
+    "run_list" : ["recipe[windows]"]
 }
